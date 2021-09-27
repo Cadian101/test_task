@@ -1,0 +1,52 @@
+{
+  "stepsTitle": "My startup progress",
+  "steps": [
+    {
+      "stepTitle": "Foundation",
+      "subSteps": [
+        {
+          "subStepTitle": "Setup virtual office",
+          "subStepIsComplete": false
+        },
+        {
+          "subStepTitle": "Set mission & vision",
+          "subStepIsComplete": false
+        },
+        {
+          "subStepTitle": "Select Business name",
+          "subStepIsComplete": false
+        },
+        {
+          "subStepTitle": "Buy Domains",
+          "subStepIsComplete": false
+        }
+      ]
+    },
+    {
+      "stepTitle": "Discovery",
+      "subSteps": [
+        {
+          "subStepTitle": "Create roadmap",
+          "subStepIsComplete": false
+        },
+        {
+          "subStepTitle": "Competitor Analysis",
+          "subStepIsComplete": false
+        }
+      ]
+    },
+    {
+      "stepTitle": "Delivery",
+      "subSteps": [
+        {
+          "subStepTitle": "Release marketing website",
+          "subStepIsComplete": false
+        },
+        {
+          "subStepTitle": "Release MVP",
+          "subStepIsComplete": false
+        }
+      ]
+    }
+  ]
+}
